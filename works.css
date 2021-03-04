@@ -1,0 +1,36 @@
+body {
+    margin: 0px;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    font-family: arya-double,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 30px;
+    padding: 50px;
+    background-color: white;
+}
+
+header a {
+	padding: 2em 2em;
+	color: #fcc800;
+	text-decoration: none;
+}
+
+header a:hover {
+	text-decoration: underline;
+}
+
+
+footer {
+    font-size: 8px;
+    font-family: cantiga,sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+
